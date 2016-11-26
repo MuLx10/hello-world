@@ -1,2 +1,5 @@
 # hello-world
-just a new repositry
+just a new repositry 
+:-)
+:-0
+:-p
